@@ -7,4 +7,6 @@ download_path = os.getcwd() + './Data/'
 
 view_browser = True
 browser = st.setup_browser(view_browser, download_path)
-zi.zillow_housing(browser)
+print(type(browser))
+# zi.zillow_housing(browser)
+zi.iterate_listings(browser)
