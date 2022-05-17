@@ -41,7 +41,7 @@ This task is still in development. Once more information is ready, it will be ad
 
 Our application design is solely focused on the heatmap with any user constraints. 
 
-<img src="https://github.com/CalebChacko/property-ignite/blob/main/assets/android_heat_map.PNG" width="100"/>
+<img src="https://github.com/CalebChacko/property-ignite/blob/main/Assets/android_heat_map.png" width="100"/>
 
 <!-- <img src="./Assets/android_heat_map.PNG" width="100"/> -->
 
